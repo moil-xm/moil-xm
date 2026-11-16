@@ -1,4 +1,4 @@
-# Hi, I'm Moil 👋
+# Hi, I'm Milo 👋
 
 <p align="center">
   <strong>Software Developer · Backend Systems · Cross-platform Desktop Apps</strong>
